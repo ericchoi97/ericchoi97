@@ -23,11 +23,7 @@
   <ul>
     <p>  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" height="25"/> <a href="https://www.linkedin.com/in/ericchoi97"> &nbsp;LinkedIn</a> </p>
     <p>  <img src="https://media.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_100_100/0/1602698792035?e=1681344000&v=beta&t=rAT7L4I-4A54GkKAGfCHojkaCF9vjvvCtmiANhAiokk" width="25" height="25"/> <a href="https://medium.com/@ericchoi97"> &nbsp;Medium</a> </p>
-  </ul>
-  
-    <h2>Media</h2>
-    <ul>
-      <p>  <img src="https://media.licdn.com/dms/image/C4D0BAQHL3csm5qekjA/company-logo_100_100/0/1670169572808?e=1681344000&v=beta&t=MWNYSkQFjhZcvsTBgiTW_nbxXoayjm3yXB2Kt4cgEWY" width="25" height="25"/> <a href="https://www.youtube.com/watch?v=6i_8ZWBE-5U&t=340s"> &nbsp;ABC's What Would You Do?</a> </p>
+    <p>  <img src="https://media.licdn.com/dms/image/C4D0BAQHL3csm5qekjA/company-logo_100_100/0/1670169572808?e=1681344000&v=beta&t=MWNYSkQFjhZcvsTBgiTW_nbxXoayjm3yXB2Kt4cgEWY" width="25" height="25"/> <a href="https://www.youtube.com/watch?v=6i_8ZWBE-5U&t=340s"> &nbsp;ABC's What Would You Do?</a> </p>
     </ul>
   
   <h2>Certifications</h2>
