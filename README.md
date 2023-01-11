@@ -7,9 +7,9 @@
   
   <h2>About me</h2>
   <p> AI and data science enthusiast. </p>
-  <p> Completing a Masters in Artificial Intelligence at the University of Colorado. </p>
-  <p> Founder of <a href="https://www.lastappstanding.com">Last App Standing</a>. </p>
-  <p> Board Member <a href="https://www.blastalerts.com">Blast! Alerts</a>. </p>
+  <br> Completing a Masters in Artificial Intelligence at the University of Colorado.
+  <br> Founder of <a href="https://www.lastappstanding.com">Last App Standing</a>.
+  <br> Board Member at <a href="https://www.blastalerts.com">Blast! Alerts</a>. </p>
   
   <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI)</li>
   <li> 🌱 I’m currently learning Data Science </li>
