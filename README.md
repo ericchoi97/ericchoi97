@@ -10,13 +10,13 @@
     I am completing a Masters in Artificial Intelligence at the University of Colorado. 
     I am the founder of <a href="https://www.lastappstanding.com">Last App Standing</a>.</p>
   
-  <li> 🔭 I’m currently working on the Brain Computer Interfaces. </li>
-  <li> 🌱 I’m currently learning Data Science. </li>
-  <li> 👯 I’m looking to collaborate on applying ML on brain signal data. </li>
-  <li> 🤔 I’m looking for help with learning more Python, R, and SQL. </li>
+  <li> 🔭 I’m currently working on the Brain Computer Interfaces </li>
+  <li> 🌱 I’m currently learning Data Science </li>
+  <li> 👯 I’m looking to collaborate on applying ML on brain signal data </li>
+  <li> 🤔 I’m looking for help with learning more Python, R, and SQL </li>
   <li> 📫 How to reach me: ericchoi97@gmail.com </li>
-  <li> 😄 Pronouns: He/His/Him. </li>
-  <li> ⚡ Fun fact: I was on What Would You Do?, a candid camera show, defending a Muslim teenager. </li>
+  <li> 😄 Pronouns: He/His/Him </li>
+  <li> ⚡ Fun fact: I was on What Would You Do?, a candid camera show, defending a Muslim teenager </li>
   
   <h2>Links</h2>
   <ul>
