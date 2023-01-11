@@ -20,18 +20,18 @@
   
   <h2>Links</h2>
   <ul>
-    <p>  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" height="25"/> <a href="https://www.linkedin.com/in/ericchoi97"> LinkedIn</a> </p>
-    <p>  <img src="https://media.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_100_100/0/1602698792035?e=1681344000&v=beta&t=rAT7L4I-4A54GkKAGfCHojkaCF9vjvvCtmiANhAiokk" width="25" height="25"/> <a href="https://medium.com/@ericchoi97"> Medium</a> </p>
+    <p>  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" height="25"/> <a href="https://www.linkedin.com/in/ericchoi97"> &nbsp;LinkedIn</a> </p>
+    <p>  <img src="https://media.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_100_100/0/1602698792035?e=1681344000&v=beta&t=rAT7L4I-4A54GkKAGfCHojkaCF9vjvvCtmiANhAiokk" width="25" height="25"/> <a href="https://medium.com/@ericchoi97"> &nbsp;Medium</a> </p>
   </ul>
   
   <h2>Certifications</h2>
   <ul>
-    <p> <img src="https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_100_100/0/1670264050886?e=1681344000&v=beta&t=XlT5SLnB7GvKrx3ZdhYxsiGtPYjFTWy8ZXMospDPvVA" width="25" height="25"/>  AWS Cloud Practitioner </p>
-    <p> <img src="https://media.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_100_100/0/1561949205873?e=1681344000&v=beta&t=nNhvydMPJxLBMjT1n1Y7i1u3x2--wIwZSpfcoRftayc" width="25" height="25"/>  Nvidia Building a Brain </p>
+    <p> <img src="https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_100_100/0/1670264050886?e=1681344000&v=beta&t=XlT5SLnB7GvKrx3ZdhYxsiGtPYjFTWy8ZXMospDPvVA" width="25" height="25"/>  &nbsp;AWS Cloud Practitioner </p>
+    <p> <img src="https://media.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_100_100/0/1561949205873?e=1681344000&v=beta&t=nNhvydMPJxLBMjT1n1Y7i1u3x2--wIwZSpfcoRftayc" width="25" height="25"/>  &nbsp;Nvidia Building a Brain </p>
         <p> <img src="https://media.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_100_100/0/1519872880167?e=1681344000&v=beta&t=opZ0ai-X9u1EGESk4LPVh_vZrGIuRZRiSL6G0Vv9Rak" width="25" height="25"/>  Coursera Ruby Scripting for DevOps </p>
-        <p> <img src="https://media.licdn.com/dms/image/C560BAQGdmJtHAi_-6A/company-logo_100_100/0/1656686341818?e=1681344000&v=beta&t=AMlW8urQWLpMLWMRs5iOP_k-J8cdYkoTK0bcbYLzLlg" width="25" height="25"/>  AIG Cybersecurity </p>
-        <p> <img src="https://media.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_100_100/0/1595518030728?e=1681344000&v=beta&t=XOHoNN5qqGCaw01s9J8rAqxRiciBcZDsVCDhEmyreuM" width="25" height="25"/>  Goldman Sachs FinTech Engineering </p>
-        <p> <img src="https://media.licdn.com/dms/image/C560BAQEP8_eM4zW8bw/company-logo_100_100/0/1626865473807?e=1681344000&v=beta&t=Ao9f6vaxGOjjvsLzntbsEseyLvLf7h_f6UVvkvSXaUU" width="25" height="25"/>  Visa Token Service Technology </p>
+        <p> <img src="https://media.licdn.com/dms/image/C560BAQGdmJtHAi_-6A/company-logo_100_100/0/1656686341818?e=1681344000&v=beta&t=AMlW8urQWLpMLWMRs5iOP_k-J8cdYkoTK0bcbYLzLlg" width="25" height="25"/>  &nbsp;AIG Cybersecurity </p>
+        <p> <img src="https://media.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_100_100/0/1595518030728?e=1681344000&v=beta&t=XOHoNN5qqGCaw01s9J8rAqxRiciBcZDsVCDhEmyreuM" width="25" height="25"/>  &nbsp;Goldman Sachs FinTech Engineering </p>
+        <p> <img src="https://media.licdn.com/dms/image/C560BAQEP8_eM4zW8bw/company-logo_100_100/0/1626865473807?e=1681344000&v=beta&t=Ao9f6vaxGOjjvsLzntbsEseyLvLf7h_f6UVvkvSXaUU" width="25" height="25"/>  &nbsp;Visa Token Service Technology </p>
   </ul>
   
 </body>
