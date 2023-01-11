@@ -6,7 +6,7 @@
   <h1>Welcome to Eric Choi's GitHub Page</h1>
   
   <h2>About me</h2>
-  <p>I am a data scientist and AI enthusiast. 
+  <p>I am a AI and data science enthusiast. 
     I am completing a Masters in Artificial Intelligence at the University of Colorado. 
     I am the founder of <a href="https://www.lastappstanding.com">Last App Standing</a>.</p>
   
