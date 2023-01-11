@@ -18,7 +18,7 @@
   
   <h2>Links</h2>
   <ul>
-    <p>  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" height="25"/>  LinkedIn: <a href="https://www.linkedin.com/in/ericchoi97">Eric Choi's LinkedIn</a> </p>
+    <p>  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" height="25"/> <a href="https://www.linkedin.com/in/ericchoi97"> LinkedIn</a> </p>
     <p>  <img src="https://media.licdn.com/dms/image/C4D0BAQEv0xgEe3MJ2w/company-logo_100_100/0/1602698792035?e=1681344000&v=beta&t=rAT7L4I-4A54GkKAGfCHojkaCF9vjvvCtmiANhAiokk" width="25" height="25"/>  Medium: <a href="https://medium.com/@ericchoi97">Eric Choi's Medium</a> </p>
   </ul>
   
