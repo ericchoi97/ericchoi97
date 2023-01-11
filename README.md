@@ -25,7 +25,7 @@
   <h2>Certifications</h2>
   <ul>
     <p> <img src="https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_100_100/0/1670264050886?e=1681344000&v=beta&t=XlT5SLnB7GvKrx3ZdhYxsiGtPYjFTWy8ZXMospDPvVA" width="25" height="25"/>  AWS Cloud Practitioner </p>
-    <p> <img src="https://media.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_100_100/0/1561949205873?e=1681344000&v=beta&t=nNhvydMPJxLBMjT1n1Y7i1u3x2--wIwZSpfcoRftayc" width="25" height="25"/>  NVidia Building a Brain </p>
+    <p> <img src="https://media.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_100_100/0/1561949205873?e=1681344000&v=beta&t=nNhvydMPJxLBMjT1n1Y7i1u3x2--wIwZSpfcoRftayc" width="25" height="25"/>  Nvidia Building a Brain </p>
   </ul>
   
 </body>
