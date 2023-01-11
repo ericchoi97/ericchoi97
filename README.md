@@ -18,13 +18,13 @@
   
   <h2>Links</h2>
   <ul>
-    <p> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="35"/> LinkedIn: <a href="https://www.linkedin.com/in/ericchoi97">Eric Choi</a> </p>
-    <p> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="35"/> Medium: <a href="https://medium.com/@ericchoi97">Eric Choi</a> </p>
+    <p>  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>  LinkedIn: <a href="https://www.linkedin.com/in/ericchoi97">Eric Choi</a> </p>
+    <p>  <img src="https://img.icons8.com/sf-black-filled/2x/medium-logo.png" width="30" height="30"/>  Medium: <a href="https://medium.com/@ericchoi97">Eric Choi</a> </p>
   </ul>
   
   <h2>Certifications</h2>
   <ul>
-    <p> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQisNpekTHV_d4AnfQx3gp_xoyU4k-E6CEW9g&usqp=CAU" width="35" height="35"/> AWS Cloud Practitioner </p>
+    <p> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQisNpekTHV_d4AnfQx3gp_xoyU4k-E6CEW9g&usqp=CAU" width="30" height="30"/>  AWS Cloud Practitioner </p>
   </ul>
   
 </body>
