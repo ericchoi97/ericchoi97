@@ -6,13 +6,13 @@
   <h1>Welcome to Eric Choi's GitHub Page</h1>
   
   <h2>About me</h2>
-  <p> AI and data science enthusiast.
+  <p> AI and app development enthusiast.
   <br> Completing a Masters in Artificial Intelligence at the University of Colorado.
   <br> Founder of <a href="https://www.lastappstanding.com">Last App Standing</a>.
   <br> Board Member at <a href="https://www.blastalerts.com">Blast! Alerts</a>. </p>
   
   <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI)</li>
-  <li> 🌱 I’m currently learning Data Science </li>
+  <li> 🌱 I’m currently learning React Native </li>
   <li> 👯 I’m looking to collaborate on applying ML on brain signal data </li>
   <li> 🤔 I’m looking for help with learning more Python, R, and SQL </li>
   <li> 📫 How to reach me: ericchoi97@gmail.com </li>
