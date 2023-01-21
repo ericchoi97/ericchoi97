@@ -12,7 +12,7 @@
   <br> Board Member at <a href="https://www.blastalerts.com">Blast! Alerts</a>. </p>
   
   <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI)</li>
-  <li> 🌱 I’m currently learning React Native </li>
+  <li> 🌱 I’m currently learning Data Science </li>
   <li> 👯 I’m looking to collaborate on applying ML on brain signal data </li>
   <li> 🤔 I’m looking for help with learning more Python, R, and SQL </li>
   <li> 📫 How to reach me: ericchoi97@gmail.com </li>
