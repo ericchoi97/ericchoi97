@@ -7,7 +7,7 @@
   <p> AI and app development enthusiast.
   <br> Completing a Masters in Artificial Intelligence at the University of Colorado.
   <br> Founder of <a href="https://www.lastappstanding.com">Last App Standing</a>.
-  <br> Board Member at <a href="https://www.blastalerts.com">Blast! Alerts</a>. </p>
+  <br> Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a>. </p>
   
   <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI)</li>
   <li> 🌱 I’m currently learning Data Science </li>
