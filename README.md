@@ -6,7 +6,7 @@
   <h2>About me</h2>
   <p> AI and app development enthusiast.
   <br> Completing a Masters in Artificial Intelligence at the University of Colorado.
-  <br> Founder of <a href="https://www.lastappstanding.com">Last App Standing</a>.
+  <br> Founder of <a href="https://www.lastappstanding.com">Last App Standing</a>, incubated by Amazon Activate, Nvidia Inception, and Google for Startups.
   <br> Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a>. </p>
   
   <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI)</li>
