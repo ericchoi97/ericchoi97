@@ -9,7 +9,7 @@
   <br> Chief Information Officer at <a href="https://linkappofficial.com/">LinkApp</a>.
   <br> Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a>. </p>
   
-  <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI)</li>
+  <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI) and robotics</li>
   <li> 🌱 I’m currently learning Arabic </li>
   <li> 👯 I’m looking to collaborate on applying ML on brain signal data </li>
   <li> 🤔 Created a Python syntax library for coders with dyslexia </li>
