@@ -12,7 +12,7 @@
   <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI)</li>
   <li> 🌱 I’m currently learning Data Science </li>
   <li> 👯 I’m looking to collaborate on applying ML on brain signal data </li>
-  <li> 🤔 I’m looking for help with learning more Python, R, and SQL </li>
+  <li> 🤔 Created a Python syntax library for coders with dyslexia </li>
   <li> 📫 How to reach me: ericchoi97@gmail.com </li>
   <li> 😄 Pronouns: They/Them </li>
   <li> ⚡ Fun fact: I was on What Would You Do?, a hidden camera show on ABC, defending a victim of bullying </li>
