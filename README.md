@@ -10,7 +10,7 @@
   <br> Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a>. </p>
   
   <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI)</li>
-  <li> 🌱 I’m currently learning Data Science </li>
+  <li> 🌱 I’m currently learning Arabic </li>
   <li> 👯 I’m looking to collaborate on applying ML on brain signal data </li>
   <li> 🤔 Created a Python syntax library for coders with dyslexia </li>
   <li> 📫 How to reach me: ericchoi97@gmail.com </li>
