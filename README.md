@@ -14,8 +14,8 @@
   <li> 👯 I’m looking to collaborate on applying ML on brain signal data </li>
   <li> 🤔 I’m looking for help with learning more Python, R, and SQL </li>
   <li> 📫 How to reach me: ericchoi97@gmail.com </li>
-  <li> 😄 Pronouns: He/His/Him </li>
-  <li> ⚡ Fun fact: I was on What Would You Do?, a candid camera show, defending a Muslim teenager </li>
+  <li> 😄 Pronouns: They/Them </li>
+  <li> ⚡ Fun fact: I was on What Would You Do?, a hidden camera show on ABC, defending a victim of bullying </li>
   
   <h2>Links</h2>
   <ul>
