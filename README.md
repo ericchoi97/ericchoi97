@@ -21,7 +21,7 @@
   <ul>
     <p>  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" width="25" height="25"/> <a href="https://medium.com/@ericchoi97"> &nbsp;Medium</a> </p>
     <p>  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/American_Broadcasting_Company_Logo.svg" width="25" height="25"/> <a href="https://www.youtube.com/watch?v=6i_8ZWBE-5U&t=340s"> &nbsp;Television</a> </p>
-    <li> 📺 <a href="https://youtube.com/watch?v=-9Fjl3ajK7Y"> &nbsp;Podcast Interview</a></li>
+    <p> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Podcasts_%28iOS%29.svg" width="25" height="25"/> <a href="https://youtube.com/watch?v=-9Fjl3ajK7Y"> &nbsp;Podcast Interview</a></p>
     </ul>
   
   <h2>Certifications</h2>
