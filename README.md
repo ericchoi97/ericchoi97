@@ -4,9 +4,8 @@
   <h1>Welcome to Eric Choi's GitHub Page</h1>
   
   <h2>About me</h2>
-  <p> AI Scientist & UI/UX designer.
   <br> Completing a Masters in Artificial Intelligence at the University of Colorado.
-  <br> Chief Information Officer at <a href="https://linkappofficial.com/">LinkApp</a>.
+  <br> Founder at <a href="https://www.lastappstanding.com/">Last App Standing</a>.
   <br> Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a>. </p>
   
   <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI) and robotics</li>
