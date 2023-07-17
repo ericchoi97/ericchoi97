@@ -5,8 +5,8 @@
   
   <h2>About me</h2>
   <br> Founder at <a href="https://www.lastappstanding.com/">Last App Standing</a>.
-  <br> Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a>. </p>
-  <br> Completing a Masters in Artificial Intelligence at the University of Colorado.
+  <br> Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a>.
+  <br> Completing a Masters in Artificial Intelligence at the University of Colorado. </p>
   
   <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI) and robotics</li>
   <li> 🌱 I’m currently learning Arabic </li>
