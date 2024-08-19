@@ -4,17 +4,16 @@
   <h1>Welcome to Eric Choi's GitHub Page</h1>
   
   <h2>About me</h2>
-  <li> Chief Technical Officer at <a href="https://www.https://www.ziga.app//">Ziga</li>.
-  <li> Trustee at <a href="https://www.lastappstanding.com/">Last App Standing</li>.
-  <li> Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures</li>.
-  <li> Completing a Masters in Artificial Intelligence at the University of Colorado. </li>
+  <li> Chief Technical Officer at <a href="https://www.https://www.ziga.app//">Ziga</li>
+  <li> Trustee at <a href="https://www.lastappstanding.com/">Last App Standing</li>
+  <li> Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures</li>
+  <li> Completing a Masters in Artificial Intelligence at the University of Colorado </li>
   <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI) and robotics</li>
   <li> 🌱 I’m currently learning Arabic </li>
   <li> 👯 I’m looking to collaborate on applying ML on brain signal data </li>
-  <li> 🤔 Created a Python syntax library for coders with dyslexia </li>
   <li> 📫 How to reach me: ericchoi97@gmail.com </li>
   <li> 😄 Pronouns: He/his/him </li>
-  <li> ⚡ Fun fact: I was on What Would You Do?, a hidden camera show on ABC, defending a victim of bullying </li>
+  <li> ⚡ Fun fact: I was on What Would You Do?, a hidden camera show on ABC! </li>
   
   <h2>Links</h2>
   <ul>
