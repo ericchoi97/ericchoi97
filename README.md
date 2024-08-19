@@ -1,55 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Eric Choi's GitHub Page</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f4f4f4;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    a {
-      color: #0366d6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      background: #fff;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    .section {
-      margin-bottom: 20px;
-    }
-    .section ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    .section ul li {
-      margin: 10px 0;
-    }
-    .section img {
-      vertical-align: middle;
-      margin-right: 10px;
-    }
-  </style>
 </head>
 <body>
   <div class="container">
     <h1>Welcome to Eric Choi's GitHub Page</h1>
-    
-    <div class="section">
+  
+  <div class="section">
       <h2>About Me</h2>
       <p>Chief Technical Officer at <a href="https://www.ziga.app/">Ziga</a>.</p>
       <p>Trustee at <a href="https://www.lastappstanding.com/">Last App Standing</a>.</p>
@@ -57,7 +13,7 @@
       <p>Completing a Master’s in Artificial Intelligence at the University of Colorado.</p>
     </div>
 
-    <div class="section">
+  <div class="section">
       <h2>What I'm Working On</h2>
       <ul>
         <li>🔭 Brain-Computer Interfaces (BCI) and robotics</li>
@@ -69,7 +25,7 @@
       </ul>
     </div>
     
-    <div class="section">
+  <div class="section">
       <h2>Links</h2>
       <ul>
         <li><img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*psYl0y9DUzZWtHzFJLIvTw.png" width="25" height="25"/><a href="https://medium.com/@ericchoi97">Medium</a></li>
@@ -78,7 +34,7 @@
       </ul>
     </div>
     
-    <div class="section">
+  <div class="section">
       <h2>Certifications</h2>
       <ul>
         <li><img src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_stacked_REV_SQ.91cd4af40773cbfbd15577a3c2b8a346fe3e8fa2.png" width="25" height="25"/><a href="https://www.credly.com/badges/d535351e-914d-43de-987a-0fead11934bd/public_url">AWS Cloud Practitioner</a></li>
