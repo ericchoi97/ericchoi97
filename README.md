@@ -4,7 +4,8 @@
   <h1>Welcome to Eric Choi's GitHub Page</h1>
   
   <h2>About me</h2>
-  <br> Founder at <a href="https://www.lastappstanding.com/">Last App Standing</a>.
+  <br> CTO at <a href="https://www.https://www.ziga.app//">Ziga</a>.
+  <br> Trustee at <a href="https://www.lastappstanding.com/">Last App Standing</a>.
   <br> Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a>.
   <br> Completing a Masters in Artificial Intelligence at the University of Colorado. </p>
   
