@@ -4,7 +4,10 @@
   <h1>Welcome to Eric Choi's GitHub Page</h1>
   
   <h2>About me</h2>
-  <p> Chief Technical Officer at <a href="https://www.https://www.ziga.app//">Ziga. Trustee at <a href="https://www.lastappstanding.com/">Last App Standing. Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures. Completing a Masters in Artificial Intelligence at the University of Colorado.</p>
+  <p> Chief Technical Officer at <a href="https://www.https://www.ziga.app//">Ziga. </p>
+  <p> Trustee at <a href="https://www.lastappstanding.com/">Last App Standing. </p>
+  <p> Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures. </p>
+  <p> Completing a Masters in Artificial Intelligence at the University of Colorado. </p>
 
   <li> 🔭 I’m currently working on Brain Computer Interfaces (BCI) and robotics</li>
   <li> 🌱 I’m currently learning Arabic </li>
