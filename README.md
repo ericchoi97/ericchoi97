@@ -7,7 +7,7 @@
 
   <div class="section">
             <h2>About Me</h2>
-            <p>Eric currently serves as the Chief Technical Officer at <a href="https://www.ziga.app/">Ziga</a>, where he oversees the company's technological advancements. In addition to this role, he is a Trustee at <a href="https://www.lastappstanding.com/">Last App Standing</a>, contributing to strategic decision-making and innovation. Eric also brings his expertise to <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a> as a Team of Experts Advisor, guiding the organization in cutting-edge technology investments. Alongside these professional commitments, he is pursuing a Master’s in Artificial Intelligence at the University of Colorado, further enhancing his knowledge and skills in the field.</p>
+            <p>Eric currently serves as the Chief Technical Officer at <a href="https://www.ziga.app/">Ziga</a>, a business partner matching app. In addition to this role, he is a Trustee at <a href="https://www.lastappstanding.com/">Last App Standing</a>, advising the CEO on strategy and best practices. Eric also brings his expertise to <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a> as a Team of Experts Advisor, guiding startups in pitching and product refinement. Alongside these professional commitments, he is pursuing a Master’s in Artificial Intelligence at the University of Colorado.</p>
       </div>
 
   <div class="section">
