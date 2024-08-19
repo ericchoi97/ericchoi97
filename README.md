@@ -7,10 +7,10 @@
 
   <div class="section">
             <h2>About Me</h2>
-            <p>Chief Technical Officer at <a href="https://www.ziga.app/">Ziga</a>.</p>
-            <p>Trustee at <a href="https://www.lastappstanding.com/">Last App Standing</a>.</p>
-            <p>Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a>.</p>
-            <p>Completing a Master’s in Artificial Intelligence at the University of Colorado.</p>
+            <p>1. Chief Technical Officer at <a href="https://www.ziga.app/">Ziga</a>.</p>
+            <p>2. Trustee at <a href="https://www.lastappstanding.com/">Last App Standing</a>.</p>
+            <p>3. Team of Experts Advisor at <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a>.</p>
+            <p>4. Completing a Master’s in Artificial Intelligence at the University of Colorado.</p>
       </div>
 
   <div class="section">
