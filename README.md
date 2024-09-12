@@ -14,7 +14,6 @@
             <h2>What I'm Working On</h2>
             <ul>
                 <li>🔭 Brain-Computer Interfaces (BCI) and robotics</li>
-                <li>🌱 Learning Arabic</li>
                 <li>👯 Looking to collaborate on applying ML to brain signal data</li>
                 <li>📫 Reach me at: <a href="mailto:ericchoi97@gmail.com">ericchoi97@gmail.com</a></li>
                 <li>😄 Pronouns: He/Him</li>
