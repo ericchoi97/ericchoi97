@@ -7,7 +7,7 @@
 
   <div class="section">
             <h2>About Me</h2>
-            <p>Eric brings his technical expertise to <a href="https://www.baltictechventures.com">Baltic Tech Ventures</a> as a Team of Experts Advisor, guiding startups in pitching and product refinement. Alongside these professional commitments, he is pursuing a Master’s in Artificial Intelligence at the University of Colorado.</p>
+            <p>Eric is Co-Founder and Chief Operating Officer of Amiga Platforms, an AI agent startup. He coded the codebase from concept to functional proof-of-concept before hand-off to staff. Alongside these professional commitments, he is pursuing a Master’s in Artificial Intelligence at the University of Colorado.</p>
       </div>
 
   <div class="section">
