@@ -7,7 +7,7 @@
 
   <div class="section">
             <h2>About Me</h2>
-            <p>Eric is the Chair and CEO of Amiga Platforms, an agentic AI agent startup. He coded the codebase from concept to functional proof-of-concept before hand-off to staff. Alongside these professional commitments, he is pursuing a Master’s in Artificial Intelligence at the University of Colorado.</p>
+            <p>Working on an agentic AI by creating the codebase from concept to functional proof-of-concept. Pursuing a Master’s in Artificial Intelligence at the University of Colorado.</p>
       </div>
 
   <div class="section">
